@@ -3,14 +3,14 @@ kind: Template
 metadata:
   name: k3t-java-spring-grpc
   title: Java Spring Boot gRPC API
-  description: 
+  description: Cria um microserviço com exposição gRPC usando Java e Springboot framework
   tags:
     - java
     - grpc
     - springboot
     - api
 spec:
-  owner: 
+  owner: tech@kode3.tech
   type: service
   parameters:
     - title: Provide some simple information
